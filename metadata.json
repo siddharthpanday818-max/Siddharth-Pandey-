@@ -1,0 +1,7 @@
+{
+  "name": "EduSarthi",
+  "description": "An AI-powered educational app for school students (Class 8–12) to learn subjects through AI-generated notes, quizzes, and an interactive doubt-solving chatbot.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
